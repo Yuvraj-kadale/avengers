@@ -1,7 +1,4 @@
-# Depression Detect Workflow
-
-Gain access to the [DAIC-WOZ database](http://dcapswoz.ict.usc.edu/) and download the zip files to your project directory by running the following command in your shell:
-
+# IamHERE Workflow
 
 ### Data
 1.  `extract_from_zip.py` to extract the wav files of the interviews and interview transcription csv files from the zip files.
